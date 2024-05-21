@@ -1,5 +1,5 @@
 <h1 align="center">
- <img width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNoBH6ZoAcgIUvjYTfm3tcH2TSea0BZSVcRzhXFep7&s" />
+ <img width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNoBH6ZoAcgIUvjYTfm3tcH2TSea0BZSVcRzhXFep7&s" />
 </h1>
 <h1 align="center">Hi 👋, I'm Fatima Mansoor</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
