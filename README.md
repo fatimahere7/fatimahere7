@@ -1,3 +1,6 @@
+<h1 align="center">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNoBH6ZoAcgIUvjYTfm3tcH2TSea0BZSVcRzhXFep7&s" />
+</h1>
 <h1 align="center">Hi 👋, I'm Fatima Mansoor</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" alt="girl" width="300">
