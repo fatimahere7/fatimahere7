@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatima Mansoor</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" src="https://i.gifer.com/JXA0.gif" alt="girl" width:"300">
+<img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" alt="girl" width:"300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimahere7&label=Profile%20views&color=0e75b6&style=flat" alt="fatimahere7" /> </p>
 
