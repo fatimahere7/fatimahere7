@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **fatimamansoor529@gmail.com**
 
-- ⚡ Fun fact **Actually I'm TA of OOP lab!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
