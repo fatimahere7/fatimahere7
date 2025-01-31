@@ -2,16 +2,11 @@
  <img width="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNoBH6ZoAcgIUvjYTfm3tcH2TSea0BZSVcRzhXFep7&s" />
 </h1>
 <h1 align="center">Hi 👋, I'm Fatima Mansoor</h1>
-<h3 align="center">A Web developer</h3>
 <img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" alt="girl" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimahere7&label=Profile%20views&color=0e75b6&style=flat" alt="fatimahere7" /> </p>
 
-- 🌱 I’m currently learning **react.js**
 
-- 💬 Ask me about **HTML,CSS,Js,C++,Java(basic)**
-
-- 📫 How to reach me **fatimamansoor529@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
