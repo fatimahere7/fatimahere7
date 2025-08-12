@@ -1,3 +1,8 @@
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+</head>
+
 <h1 align="center">Hi 👋, I'm Fatima Mansoor</h1>
 <img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" alt="girl" width="300">
 
@@ -44,6 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
+  <i class="devicon-laravel-plain-wordmark colored" style="font-size:40px;"></i>
 </p>
 
 ### 🎨 Frontend Frameworks
