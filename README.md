@@ -8,11 +8,11 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 **BSCS'25 | Final Year Student**
+- 🎓 **BSCS'25**
 - 💡 Passionate about **Full-Stack Development**, **API Integration**, and **AI-powered apps**
 - 🚀 Experienced with **Laravel** for web applications  
-- 🛠 Currently working with **Django** & **Django REST Framework** for backend APIs
-- 🌱 Learning **Vue.js** & **Laravel Livewire**
+- 🛠 Currently working with **Django** & **Django REST Framework** for backend APIs as Backend Developer
+- 🌱 Others **Github** & **Postman** for API endpoints
 - 🎯 Goal: Build scalable, user-centric solutions that make an impact
 
 ---
