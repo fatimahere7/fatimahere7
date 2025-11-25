@@ -19,7 +19,7 @@
 - 🛠 Currently working with **Django** & **Django REST Framework** for backend APIs as Backend Developer
 - 🌱 Others **Github** & **Postman** for API endpoints
 - 🎯 Goal: Build scalable, user-centric solutions that make an impact
-- Recent interest SQA , QA 
+
 ---
 
 ### 🔗 Connect with me:
