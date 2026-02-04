@@ -4,21 +4,32 @@
   Associate Blockchain Developer 🚀 | Full-Stack & Web3 Enthusiast
 </h3>
 
-<img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" alt="coding" width="300"/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fatimahere7&label=Profile%20views&color=0e75b6&style=flat" alt="fatimahere7" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fatimahere7&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<br>
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-##  About Me
+### 🌟 About Me
 
--  Currently working as an **Associate Blockchain Developer**
--  Building smart contracts & Web3 apps
--  Strong grip on **Solidity**, **Foundry**, and backend logic
--  Full-stack dev with a love for clean architecture
--  Always learning, always shipping
+- 💼 Currently working as an **Associate Blockchain Developer**
+- 🔗 Building smart contracts & Web3 applications
+- 🧠 Working with **Solidity** & **Foundry**
+- 💻 Full-stack developer with strong backend skills
+- 🌱 Always learning, always shipping 🚢
+
+   </td>
+   <td width="40%" align="center">
+     <img src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" width="280" />
+   </td>
+  </tr>
+</table>
+
+<br><br>
 
 ---
 
