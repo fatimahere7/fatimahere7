@@ -4,37 +4,25 @@
   Associate Blockchain Developer 🚀 | Full-Stack & Web3 Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatimahere7&label=Profile%20views&color=0e75b6&style=flat" />
+<img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" alt="coding" width="300"/>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fatimahere7&label=Profile%20views&color=0e75b6&style=flat" alt="fatimahere7" />
 </p>
-
-<br>
-
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-
-### 🌟 About Me
-
-- 💼 Currently working as an **Associate Blockchain Developer**
-- 🔗 Building smart contracts & Web3 applications
-- 🧠 Working with **Solidity** & **Foundry**
-- 💻 Full-stack developer with strong backend skills
-- 🌱 Always learning, always shipping 🚢
-
-    </td>
-    <td width="40%" align="center">
-      <img src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" width="300" />
-    </td>
-  </tr>
-</table>
-
-
-<br><br>
 
 ---
 
-## Connect With Me
+ 🌟 About Me
+
+- 💼 Currently working as an **Associate Blockchain Developer**
+- 🔗 Building smart contracts & Web3 apps
+- 🧠 Strong grip on **Solidity**, **Foundry**, and backend logic
+- 💻 Full-stack dev with a love for clean architecture
+- 🌱 Always learning, always shipping
+
+---
+
+## 🔗 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/fatima-mansoor-129104285" target="_blank">
     <img align="center" 
@@ -45,7 +33,7 @@
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### 🔗 Blockchain & Web3
 <p>
@@ -59,7 +47,7 @@
 
 ---
 
-### Web Development
+### 🌐 Web Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -70,7 +58,7 @@
 
 ---
 
-### Backend & APIs
+### 🖥️ Backend & APIs
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
@@ -79,7 +67,7 @@
 
 ---
 
-###  Frontend Frameworks
+### 🎨 Frontend Frameworks
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="40" height="40"/>
@@ -88,7 +76,7 @@
 
 ---
 
-###  Tools & Version Control
+### 🛠️ Tools & Version Control
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
