@@ -10,7 +10,7 @@
 
 <br>
 
-<table>
+<table style = "border: none">
   <tr>
     <td width="60%" valign="top">
 
@@ -24,7 +24,7 @@
 
    </td>
    <td width="40%" align="center">
-     <img src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" width="280" />
+     <img src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" width="500" />
    </td>
   </tr>
 </table>
