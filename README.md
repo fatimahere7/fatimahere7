@@ -13,6 +13,7 @@
 ---
 
 ##  About Me
+<br><br>
 -  Currently working as an **Associate Blockchain Developer**
 -  Building smart contracts & Web3 apps
 -  Strong grip on **Solidity**, **Foundry**, and backend logic
