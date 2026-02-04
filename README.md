@@ -12,16 +12,16 @@
 
 ---
 
-## 🌟 About Me
-- 💼 Currently working as an **Associate Blockchain Developer**
-- 🔗 Building smart contracts & Web3 apps
-- 🧠 Strong grip on **Solidity**, **Foundry**, and backend logic
-- 💻 Full-stack dev with a love for clean architecture
-- 🌱 Always learning, always shipping
+##  About Me
+-  Currently working as an **Associate Blockchain Developer**
+-  Building smart contracts & Web3 apps
+-  Strong grip on **Solidity**, **Foundry**, and backend logic
+-  Full-stack dev with a love for clean architecture
+-  Always learning, always shipping
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/fatima-mansoor-129104285" target="_blank">
     <img align="center" 
@@ -32,12 +32,11 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### 🔗 Blockchain & Web3
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="40" height="40"/>
 </p>
 
 - **Solidity**
@@ -47,7 +46,7 @@
 
 ---
 
-### 🌐 Web Development
+### Web Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -58,7 +57,7 @@
 
 ---
 
-### 🖥️ Backend & APIs
+### Backend & APIs
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
@@ -67,7 +66,7 @@
 
 ---
 
-### 🎨 Frontend Frameworks
+###  Frontend Frameworks
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="40" height="40"/>
@@ -76,7 +75,7 @@
 
 ---
 
-### 🛠️ Tools & Version Control
+###  Tools & Version Control
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
