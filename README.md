@@ -10,7 +10,7 @@
 
 <br>
 
-<table style = "border: none">
+<table border="0">
   <tr>
     <td width="60%" valign="top">
 
@@ -22,12 +22,13 @@
 - 💻 Full-stack developer with strong backend skills
 - 🌱 Always learning, always shipping 🚢
 
-   </td>
-   <td width="40%" align="center">
-     <img src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" width="500" />
-   </td>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" width="300" />
+    </td>
   </tr>
 </table>
+
 
 <br><br>
 
