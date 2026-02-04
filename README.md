@@ -10,10 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=fatimahere7&label=Profile%20views&color=0e75b6&style=flat" alt="fatimahere7" />
 </p>
 
----
+
 
 ##  About Me
-<br><br>
+
 -  Currently working as an **Associate Blockchain Developer**
 -  Building smart contracts & Web3 apps
 -  Strong grip on **Solidity**, **Foundry**, and backend logic
