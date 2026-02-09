@@ -14,11 +14,11 @@
 
  🌟 About Me
 
-- 💼 Currently working as an **Associate Blockchain Developer**
-- 🔗 Building smart contracts & Web3 apps
-- 🧠 Strong grip on **Solidity**, **Foundry**, and backend logic
-- 💻 Full-stack dev with a love for clean architecture
-- 🌱 Always learning, always shipping
+-  Currently working as an **Associate Blockchain Developer**
+-  Building smart contracts & Web3 apps
+-  Strong grip on **Solidity**, **Foundry**, and backend logic
+-  Full-stack dev with a love for clean architecture
+
 
 ---
 
