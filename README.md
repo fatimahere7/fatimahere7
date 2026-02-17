@@ -6,9 +6,6 @@
 
 <img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" alt="coding" width="300"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fatimahere7&label=Profile%20views&color=0e75b6&style=flat" alt="fatimahere7" />
-</p>
 
 ---
 
