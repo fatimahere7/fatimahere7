@@ -16,7 +16,6 @@
 -  Strong grip on **Solidity**, **Foundry**, and backend logic
 -  Full-stack dev with a love for clean architecture
 
-
 ---
 
 ## 🔗 Connect With Me
