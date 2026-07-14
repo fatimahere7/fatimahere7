@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatima Mansoor</h1>
 
 <h3 align="center">
-  Associate Blockchain Developer  | Full-Stack and Web3 Enthusiast
+  Associate Blockchain Developer  | Full-Stack & Web3 Enthusiast
 </h3>
 
 <img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" alt="coding" width="300"/>
