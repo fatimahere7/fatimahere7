@@ -13,7 +13,7 @@
 
 -  Currently working as an **Associate Blockchain Developer**
 -  Building smart contracts and Web3 apps
--  Strong grip on **Solidity**, **Foundry**, and backend logic
+-  Strong grip on **Solidity**, **Foundry**, and backend logic & apis
 -  Full-stack dev with a love for clean architecture
 
 ---
