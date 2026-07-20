@@ -2,18 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Associate+Blockchain+Developer;Solidity+%7C+Foundry+%7C+Smart+Contracts;Full-Stack+%2B+Web3+Enthusiast;Building+Clean+Architecture" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatimahere7&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/fatimahere7?label=Followers&style=for-the-badge&color=2E9EF7" alt="followers" />
-</p>
-
-<img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" alt="coding" width="280"/>
-
 ## 🌟 About Me
-- 🔗 Building smart contracts & Web3 apps
-- 🛠️ Strong grip on **Solidity**, **Foundry**, and backend APIs
-- 🧱 Full-stack dev with a love for clean architecture
-- 📌 Currently working on Blockchain Dapps
+- Building smart contracts & Web3 apps
+- Strong grip on **Solidity**, **Foundry**, and backend APIs
+- Full-stack dev with a love for clean architecture
+- Currently working on Blockchain Dapps
 
 <br clear="right"/>
 
@@ -42,11 +35,7 @@
 </p>
 
 **Backend & APIs**
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<p> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> </p>
 
 **Frontend Frameworks**
 <p>
@@ -59,8 +48,6 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
 ## 📊 GitHub Stats
