@@ -6,7 +6,7 @@
 - Building smart contracts & Web3 apps
 - Strong grip on **Solidity**, **Foundry**, and backend APIs
 - Full-stack dev with a love for clean architecture
-- Currently working on Blockchain Dapps
+- Currently working with Blockchain Dapps
 
 <br clear="right"/>
 
