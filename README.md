@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 - Building Smart Contracts & Web3 Apps
-- Strong grip on **Solidity**, **Foundry**, and backend APIs
+- Strong grip on **Solidity**, **Foundry**, and Backend APIs
 - Full-stack dev with a love for clean architecture
 - Currently working on Blockchain Dapps
 
