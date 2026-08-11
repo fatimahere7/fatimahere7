@@ -3,10 +3,10 @@
 </h1>
 
 ## 🌟 About Me
-- Building Smart Contracts & Web3 Apps
+- Building Smart Contracts and Web3 Apps
 - Strong grip on **Solidity**, **Foundry**, and Backend APIs
 - Full-stack dev with a love for clean architecture
-- Currently working on Blockchain Dapps and integrations of restful APIs
+- Currently working on Blockchain Dapps and integrations of Restful APIs
 
 <br clear="right"/>
 
