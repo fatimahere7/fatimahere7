@@ -6,7 +6,7 @@
 - Building Smart Contracts , Web3 Apps and scalable Backends
 - Strong grip on **Solidity**, **Foundry** and Backend APIs
 - Full-stack dev with a love for clean architecture
-- Currently working on Blockchain Dapps & integrations of Restful APIs
+- Currently working on Blockchain Dapps and integrations of Restful APIs
 
 <br clear="right"/>
 
